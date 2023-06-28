@@ -4,9 +4,7 @@ This is the website where almost all the factors which can be used for a balaced
 
 ## Installation
 
-You just need to clone the site and ###run npm i
-
-Then just run 
+You just need to clone the site and Then just run 
 ```  
 npm start
 ```
